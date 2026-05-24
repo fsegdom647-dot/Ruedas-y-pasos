@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202605241747250ONMQV</value>
+    <value>20260524180759GGL8I0</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>2026052417472540NGYX</value>
+    <value>20260524180759HU4K3G</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1022,6 +1022,76 @@ A través del juego vivencial, la manipulación y el movimiento, el alumnado des
 </table>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1779636211849-dzf4yglks","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100%; border-collapse: collapse !important; font-family: sans-serif; font-size: 14px; border: 3px solid #2e4053 !important;\">\n<tbody>\n<tr style=\"background-color: #2e4053 !important; color: #ffffff !important;\">\n<td style=\"width: 30%; text-align: center; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;\">SECCIÓN / ELEMENTO</td>\n<td style=\"width: 45%; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;\">REPOSITORIO / ORIGEN DEL RECURSO</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold;\">LICENCIA ASIGNADA</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;\">📥 Descarga de Materiales</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;\">Plantilla y tarjetas imprimibles listas para su uso en el aula (<a href=\"https://drive.google.com/file/d/1PgBceGNijUQ3njZQerJT6Nor9aLgF7Fj/view?usp=sharing\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">Descargar Flechas de Dirección</a>).</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #27ae60;\">CC BY-SA 4.0</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;\">👤 Autoría y Coordinación</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;\">Situación de Aprendizaje diseñada y estructurada por <strong>Francisco José</strong> para la etapa de Educación Infantil (3 años).</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #27ae60;\">CC BY-NC-SA 4.0</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;\">🚗 Pictogramas e Iconos</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;\">Símbolos gráficos utilizados para la adaptación accesible (<a href=\"https://arasaac.org\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">Centro Aragonés de la Comunicación Aumentativa y Alternativa - ARASAAC</a>).</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #7f8c8d;\">CC BY-NC-SA</td>\n</tr>\n<tr>\n<td style=\"width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;\">💻 Herramienta de Creación</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;\">Recurso Educativo Abierto (REA) empaquetado y maquetado íntegramente con el software libre y de código abierto <a href=\"https://exelearning.net\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">eXeLearning</a>.</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #2c3e50;\">GPL 2 o posterior</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779638659521-8luaezioi</odePageId>
+  <odeParentPageId>page-mpjtl6u8-tmrjdhptx</odeParentPageId>
+  <pageName>📦 Créditos y Descarga del Recurso</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📦 Créditos y Descarga del Recurso</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779638659521-8luaezioi</odePageId>
+      <odeBlockId>block-1779638683709-ywgj0ygl3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779638659521-8luaezioi</odePageId>
+          <odeBlockId>block-1779638683709-ywgj0ygl3</odeBlockId>
+          <odeIdeviceId>idevice-1779638683707-c7w5j150o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="max-width: 850px; margin: 20px auto; font-family: sans-serif; border: 2px solid #2e4053; border-radius: 8px; overflow: hidden;">
+<div style="background-color: #2e4053; color: white; padding: 15px; text-align: center; font-weight: bold; font-size: 18px;">📥 ZONA DE DESCARGA Y REUTILIZACIÓN (REA)</div>
+<div style="padding: 20px; background-color: #ffffff; line-height: 1.6; color: #2c3e50;">
+<p style="font-size: 14px; margin-bottom: 20px;">En cumplimiento con los estándares de los <strong>Recursos Educativos Abiertos (REA)</strong> y los requisitos de transferencia y reutilización docente de la convocatoria B2, se facilita el acceso a los archivos originales para su libre descarga, modificación y adaptación:</p>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+<div style="flex: 1; min-width: 280px; border: 1px solid #bdc3c7; border-radius: 6px; padding: 20px; background-color: #f8f9f9; text-align: center;"><span style="font-size: 40px;">📦</span>
+<h4 style="margin: 10px 0 5px 0; color: #2e4053;">Repositorio de Archivos Originales</h4>
+<p style="font-size: 13px; color: #7f8c8d; margin-bottom: 15px;">Acceda al espacio de almacenamiento donde se encuentran alojados tanto el archivo fuente editable <strong>.elp</strong> como el paquete web completo en formato <strong>.zip</strong>.</p>
+<a href="https://github.com/fsegdom647/Ruedas-y-pasos" target="_blank" rel="noopener" style="background-color: #2e4053; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px; display: inline-block;">📁 Acceder a la Carpeta de Descargas</a></div>
+</div>
+<div style="background-color: #f2f4f4; padding: 15px; border-radius: 6px; border-left: 4px solid #7f8c8d; font-size: 13px;"><strong>ℹ️ Licencia de Uso:</strong> Este REA está publicado bajo una licencia <strong>Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)</strong>. Usted es libre de compartir, copiar, redistribuir y adaptar el material bajo la condición de reconocer la autoría original y mantener la misma licencia en las obras derivadas.</div>
+</div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779638683707-c7w5j150o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"max-width: 850px; margin: 20px auto; font-family: sans-serif; border: 2px solid #2e4053; border-radius: 8px; overflow: hidden;\">\n<div style=\"background-color: #2e4053; color: white; padding: 15px; text-align: center; font-weight: bold; font-size: 18px;\">📥 ZONA DE DESCARGA Y REUTILIZACIÓN (REA)</div>\n<div style=\"padding: 20px; background-color: #ffffff; line-height: 1.6; color: #2c3e50;\">\n<p style=\"font-size: 14px; margin-bottom: 20px;\">En cumplimiento con los estándares de los <strong>Recursos Educativos Abiertos (REA)</strong> y los requisitos de transferencia y reutilización docente de la convocatoria B2, se facilita el acceso a los archivos originales para su libre descarga, modificación y adaptación:</p>\n<div style=\"display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;\">\n<div style=\"flex: 1; min-width: 280px; border: 1px solid #bdc3c7; border-radius: 6px; padding: 20px; background-color: #f8f9f9; text-align: center;\"><span style=\"font-size: 40px;\">📦</span>\n<h4 style=\"margin: 10px 0 5px 0; color: #2e4053;\">Repositorio de Archivos Originales</h4>\n<p style=\"font-size: 13px; color: #7f8c8d; margin-bottom: 15px;\">Acceda al espacio de almacenamiento donde se encuentran alojados tanto el archivo fuente editable <strong>.elp</strong> como el paquete web completo en formato <strong>.zip</strong>.</p>\n<a href=\"https://github.com/fsegdom647/Ruedas-y-pasos\" target=\"_blank\" rel=\"noopener\" style=\"background-color: #2e4053; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px; display: inline-block;\">📁 Acceder a la Carpeta de Descargas</a></div>\n</div>\n<div style=\"background-color: #f2f4f4; padding: 15px; border-radius: 6px; border-left: 4px solid #7f8c8d; font-size: 13px;\"><strong>ℹ️ Licencia de Uso:</strong> Este REA está publicado bajo una licencia <strong>Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)</strong>. Usted es libre de compartir, copiar, redistribuir y adaptar el material bajo la condición de reconocer la autoría original y mantener la misma licencia en las obras derivadas.</div>\n</div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
