@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605241747250ONMQV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026052417472540NGYX</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Ruedas y pasos: Mi primer viaje por el pensamiento computacional</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Francisco José Segura Domínguez.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto surge como respuesta al debate actual sobre la digitalización en la primera infancia, posicionándose entre la necesidad de desarrollar la competencia digital y las corrientes críticas que alertan sobre el abuso de pantallas en edades tempranas. La propuesta se centra en la introducción del pensamiento computacional y la robótica en el aula de Educación Infantil (3 años) mediante un enfoque exclusivamente desconectado (unplugged) y gamificado.
+A través del juego vivencial, la manipulación y el movimiento, el alumnado desarrollará la lógica, la secuenciación y la resolución de problemas, alcanzando los objetivos, saberes básicos y competencias clave descritos por la LOMLOE, garantizando un uso responsable, ético y saludable de la tecnología desde el inicio de su escolarización.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779637574297</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpjtl6u8-tmrjdhptx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🧭 Ruedas y Pasos:</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🧭 Ruedas y Pasos:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🧭 Ruedas y Pasos:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🧭 Ruedas y Pasos:</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpjtl6u8-tmrjdhptx</odePageId>
+      <odeBlockId>block-1779637376821-eeyxozlvm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpjtl6u8-tmrjdhptx</odePageId>
+          <odeBlockId>block-1779637376821-eeyxozlvm</odeBlockId>
+          <odeIdeviceId>idevice-1779637376820-406jxhfbj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="max-width: 900px; margin: 20px auto; font-family: sans-serif; border: 3px solid #2e4053; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="background-color: #2e4053; color: white; padding: 30px; text-align: center;">
+<h1 style="margin: 0; font-size: 28px; letter-spacing: 1px;">🚗 RUEDAS Y PASOS 🤖</h1>
+<p style="margin: 10px 0 0 0; font-size: 16px; opacity: 0.9; font-style: italic;">¡Mi primer viaje algorítmico en Educación Infantil!</p>
+</div>
+<div style="padding: 25px; background-color: #ffffff; color: #2c3e50; line-height: 1.6;">
+<p style="font-size: 15px; text-align: center; margin-bottom: 25px;">Bienvenido al Recurso Educativo Abierto (REA) diseñado para introducir al alumnado de <strong>3 años</strong> en el apasionante mundo del pensamiento computacional, la orientación espacial y la educación vial de forma lúdica y vivencial.</p>
+<div style="display: flex; gap: 15px; margin-bottom: 25px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 200px; background-color: #f2f4f4; padding: 15px; border-radius: 6px; border-left: 4px solid #2980b9;">
+<h3 style="margin: 0 0 5px 0; font-size: 14px; color: #2980b9;">👶 ETAPA EDUCATIVA</h3>
+<p style="margin: 0; font-size: 13px; font-weight: bold;">Educación Infantil (3 años)</p>
+<p style="margin: 5px 0 0 0; font-size: 12px; color: #7f8c8d;">Segundo Ciclo - Exploración sensorial.</p>
+</div>
+<div style="flex: 1; min-width: 200px; background-color: #f2f4f4; padding: 15px; border-radius: 6px; border-left: 4px solid #27ae60;">
+<h3 style="margin: 0 0 5px 0; font-size: 14px; color: #27ae60;">🎯 FOCO PEDAGÓGICO</h3>
+<p style="margin: 0; font-size: 13px; font-weight: bold;">Pensamiento Computacional</p>
+<p style="margin: 5px 0 0 0; font-size: 12px; color: #7f8c8d;">Direccionalidad, secuencias y gestión del error.</p>
+</div>
+<div style="flex: 1; min-width: 200px; background-color: #f2f4f4; padding: 15px; border-radius: 6px; border-left: 4px solid #8e44ad;">
+<h3 style="margin: 0 0 5px 0; font-size: 14px; color: #8e44ad;">🛠️ COMPONENTE DIGITAL</h3>
+<p style="margin: 0; font-size: 13px; font-weight: bold;">Nivel de Acreditación B2</p>
+<p style="margin: 5px 0 0 0; font-size: 12px; color: #7f8c8d;">Evaluación automatizada y recursos REA.</p>
+</div>
+</div>
+<div style="background-color: #fef9e7; border: 1px solid #f5b041; padding: 15px; border-radius: 6px; text-align: center;">
+<p style="margin: 0; font-size: 14px; color: #b7950b; font-weight: bold;">👉 Utiliza el menú lateral de la izquierda para navegar secuencialmente por los retos y apartados del proyecto.</p>
+</div>
+</div>
+<div style="background-color: #eaeded; padding: 12px; text-align: center; border-top: 1px solid #d5dbdb;"><span style="font-size: 12px; color: #7f8c8d; font-weight: bold;">Diseñado por Francisco José Segura Domínguez • 2026</span></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779637376820-406jxhfbj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"max-width: 900px; margin: 20px auto; font-family: sans-serif; border: 3px solid #2e4053; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n<div style=\"background-color: #2e4053; color: white; padding: 30px; text-align: center;\">\n<h1 style=\"margin: 0; font-size: 28px; letter-spacing: 1px;\">🚗 RUEDAS Y PASOS 🤖</h1>\n<p style=\"margin: 10px 0 0 0; font-size: 16px; opacity: 0.9; font-style: italic;\">¡Mi primer viaje algorítmico en Educación Infantil!</p>\n</div>\n<div style=\"padding: 25px; background-color: #ffffff; color: #2c3e50; line-height: 1.6;\">\n<p style=\"font-size: 15px; text-align: center; margin-bottom: 25px;\">Bienvenido al Recurso Educativo Abierto (REA) diseñado para introducir al alumnado de <strong>3 años</strong> en el apasionante mundo del pensamiento computacional, la orientación espacial y la educación vial de forma lúdica y vivencial.</p>\n<div style=\"display: flex; gap: 15px; margin-bottom: 25px; flex-wrap: wrap;\">\n<div style=\"flex: 1; min-width: 200px; background-color: #f2f4f4; padding: 15px; border-radius: 6px; border-left: 4px solid #2980b9;\">\n<h3 style=\"margin: 0 0 5px 0; font-size: 14px; color: #2980b9;\">👶 ETAPA EDUCATIVA</h3>\n<p style=\"margin: 0; font-size: 13px; font-weight: bold;\">Educación Infantil (3 años)</p>\n<p style=\"margin: 5px 0 0 0; font-size: 12px; color: #7f8c8d;\">Segundo Ciclo - Exploración sensorial.</p>\n</div>\n<div style=\"flex: 1; min-width: 200px; background-color: #f2f4f4; padding: 15px; border-radius: 6px; border-left: 4px solid #27ae60;\">\n<h3 style=\"margin: 0 0 5px 0; font-size: 14px; color: #27ae60;\">🎯 FOCO PEDAGÓGICO</h3>\n<p style=\"margin: 0; font-size: 13px; font-weight: bold;\">Pensamiento Computacional</p>\n<p style=\"margin: 5px 0 0 0; font-size: 12px; color: #7f8c8d;\">Direccionalidad, secuencias y gestión del error.</p>\n</div>\n<div style=\"flex: 1; min-width: 200px; background-color: #f2f4f4; padding: 15px; border-radius: 6px; border-left: 4px solid #8e44ad;\">\n<h3 style=\"margin: 0 0 5px 0; font-size: 14px; color: #8e44ad;\">🛠️ COMPONENTE DIGITAL</h3>\n<p style=\"margin: 0; font-size: 13px; font-weight: bold;\">Nivel de Acreditación B2</p>\n<p style=\"margin: 5px 0 0 0; font-size: 12px; color: #7f8c8d;\">Evaluación automatizada y recursos REA.</p>\n</div>\n</div>\n<div style=\"background-color: #fef9e7; border: 1px solid #f5b041; padding: 15px; border-radius: 6px; text-align: center;\">\n<p style=\"margin: 0; font-size: 14px; color: #b7950b; font-weight: bold;\">👉 Utiliza el menú lateral de la izquierda para navegar secuencialmente por los retos y apartados del proyecto.</p>\n</div>\n</div>\n<div style=\"background-color: #eaeded; padding: 12px; text-align: center; border-top: 1px solid #d5dbdb;\"><span style=\"font-size: 12px; color: #7f8c8d; font-weight: bold;\">Diseñado por Francisco José Segura Domínguez • 2026</span></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpjtl6u9-7tmxrcj7b</odePageId>
+  <odeParentPageId>page-mpjtl6u8-tmrjdhptx</odeParentPageId>
+  <pageName>🏠 Presentación del Proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🏠 Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🏠 Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpjtl6u9-7tmxrcj7b</odePageId>
+      <odeBlockId>block-1779621055661-t5plh45h1</odeBlockId>
+      <blockName>Proyecto: Ruedas y pasos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpjtl6u9-7tmxrcj7b</odePageId>
+          <odeBlockId>block-1779621055661-t5plh45h1</odeBlockId>
+          <odeIdeviceId>idevice-1779621055660-6xsv0pq4p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presenta la justificación y desarrollo completo de nuestra propuesta didáctica:</p>
+<p><a href="https://docs.google.com/presentation/d/e/2PACX-1vSzKIgsIbcA7dvcpEBX7oXm7HFebkiqAn2TLrZee7J4gBw-3YoffS1NSXokiNjW_fiVE97fcNxijt2q/pub?start=false&loop=false&delayms=3000" title="">🚀 PULSANDO AQUÍ PODRÁS ACCEDER A LA PRESENTACIÓN INTERACTIVA DEL PROYECTO</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779621055660-6xsv0pq4p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presenta la justificación y desarrollo completo de nuestra propuesta didáctica:</p>\n<p><a href=\"https://docs.google.com/presentation/d/e/2PACX-1vSzKIgsIbcA7dvcpEBX7oXm7HFebkiqAn2TLrZee7J4gBw-3YoffS1NSXokiNjW_fiVE97fcNxijt2q/pub?start=false&loop=false&delayms=3000\" title=\"\">🚀 PULSANDO AQUÍ PODRÁS ACCEDER A LA PRESENTACIÓN INTERACTIVA DEL PROYECTO</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpjtl6ua-dye96ustk</odePageId>
+  <odeParentPageId>page-mpjtl6u8-tmrjdhptx</odeParentPageId>
+  <pageName>🛡️ Entorno Digital Seguro</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🛡️ Entorno Digital Seguro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🛡️ Entorno Digital Seguro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpjtl6ua-dye96ustk</odePageId>
+      <odeBlockId>block-1779622005763-rez85yv06</odeBlockId>
+      <blockName>Navego Seguro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpjtl6ua-dye96ustk</odePageId>
+          <odeBlockId>block-1779622005763-rez85yv06</odeBlockId>
+          <odeIdeviceId>idevice-1779622005761-t5r0o7bd8</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.canva.com/design/DAHIb-FCzzU/wF-YF_h0jXDvu3YEtTrVNg/view?embed" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpjtl6ua-9gdcysnh2</odePageId>
+  <odeParentPageId>page-mpjtl6u8-tmrjdhptx</odeParentPageId>
+  <pageName>📘 Guía Didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📘 Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📘 Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpjtl6ua-9gdcysnh2</odePageId>
+      <odeBlockId>block-1779630540969-h1abdm0wo</odeBlockId>
+      <blockName>Ruedas y Pasos: La guía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpjtl6ua-9gdcysnh2</odePageId>
+          <odeBlockId>block-1779630540969-h1abdm0wo</odeBlockId>
+          <odeIdeviceId>idevice-1779630540968-17qtb6kxs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; background-color: #ecf0f1; border-color: #000000; border-style: solid;">
+<tbody>
+<tr style="border-color: #000000; border-style: solid;">
+<td style="width: 50%; border-style: solid; border-color: #000000; text-align: center;">📋 <strong>Datos de la SDA</strong></td>
+<td style="width: 50%; border-color: #000000; border-style: solid;">
+<p><strong>Proyecto:</strong> Ruedas y pasos. ¡Mi primer viaje algorítmico! </p>
+<p><strong>Autor: </strong>Francisco José Segura Domínguez<br /></p>
+<p style="text-align: left;"><strong>Nivel educativo:</strong> Segundo ciclo de educación infantil (3 años). Alumnos y alumnas en fase de exploración sensorial; se aprovecha su fascinación innata por los coches para asentar los conocimientos del pensamiento computacional básico.</p>
+<p style="text-align: left;"><strong>Temporalización:</strong> Junio. Ideal como situación de aprendizaje motivadora y con base tecnológica para el cierre del curso.</p>
+</td>
+</tr>
+<tr style="border-color: #000000; border-style: solid;">
+<td style="width: 50%; border-color: #000000; border-style: solid; background-color: #ffffff; text-align: center;">⚖️ <strong>Fundamentación pegagógica y curricular</strong></td>
+<td style="width: 50%; border-color: #000000; border-style: solid; background-color: #ffffff;">
+<p><strong>Área 1: Crecimiento en Armonía </strong></p>
+<p><em>Competencia Específica 2 "Reconocer, manifestar y regular progresivamente sus emociones, expresando necesidades y sentimientos para lograr el bienestar emocional y seguridad afectiva"</em></p>
+<p>Orientada a reconocer, manifestar y regular progresivamente las emociones. A través de las dinámicas de programación, se trabaja de forma activa la resiliencia infantil y la tolerancia a la frustración cuando el coche no llega a la meta, impulsando la co-resolución de problemas en equipo.</p>
+<p><strong>Área 2: Exploración del Entorno </strong></p>
+<p><em>Competencia Específica 2: "Tomar contacto, de manera progresiva, con los procedimientos del método científico y las destrezas del pensamiento computacional básico..."</em></p>
+<p>Constituye el núcleo central de la SDA, centrada en tomar contacto progresivo con los procedimientos del método científico y las destrezas del pensamiento computacional básico. El alumnado diseña rutas secuenciales y comandos lógicos para superar retos en el espacio del aula.</p>
+<p><strong>Área 3: Comunicación y Realidad </strong></p>
+<p><em>Competencia Específica 4: "Participar por iniciativa propia en actividades relacionadas con textos escritor, mostrando interés y curiosidad por comprender su funcionalidad..."</em></p>
+<p>Enfocada en la participación en actividades vinculadas a textos escritos funcionales. En este marco, los códigos visuales (flechas y comandos iconográficos) se presentan como un "texto funcional" elemental que permite a los niños comprobar que los signos mueven el mundo real.</p>
+</td>
+</tr>
+<tr style="border-color: #000000; border-style: solid;">
+<td style="width: 50%; border-style: solid; text-align: center;">🎯 <strong>Objetivos Didácticos y saberes básicos</strong></td>
+<td style="width: 50%; border-color: #000000; border-style: solid;">
+<p><strong>OBJETIVOS:</strong></p>
+<ul>
+<li>Iniciarse de manera lúdica en las bases del pensamiento computacional y la lógica secuencial.</li>
+<li>Desarrollar destrezas de orientación espacial, lateralidad y refuerzo del esquema corporal sobre el plano físico.</li>
+<li>Experimentar la transición metacognitiva entre una orden lógica digital abstracta y un movimiento físico observable.</li>
+<li>Conocer el vocabulario elemental de los medios de transporte (tierra, mar, aire) y nociones básicas de seguridad vial.</li>
+<li>Potenciar dinámicas de juego cooperativo, de comunicación afectiva y resolución compartida de pequeños imprevistos logísticos.</li>
+</ul>
+<p><strong>SABERES BÁSICOS:</strong></p>
+<ul>
+<li><strong>Orientación Espacial y Esquema Corporal:</strong> Nociones espaciales básicas (delante, detrás, giros orientativos) utilizando el propio cuerpo en el espacio.</li>
+<li><strong>Lenguaje Algorítmico e Iconográfico: </strong>Identificación y secuenciación de códigos visuales elementales (flechas de dirección).</li>
+<li><strong>Entornos Familiares y Transportes:</strong> Los vehículos del entorno y espacios relacionados (plazas de aparcamiento, carreteras, garajes).</li>
+<li><strong>Educación Vial Básica: </strong>Introducción al funcionamiento del semáforo y normas elementales de circulación peatonal y escolar.</li>
+<li><strong>Herramientas de Programación:</strong> Dinámicas de programación desenchufada (analógica) y manejo guiado de robots físicos de aula (Super Doc / Bee-Bot).</li>
+</ul>
+</td>
+</tr>
+<tr style="border-color: #000000; border-style: solid; background-color: #ffffff;">
+<td style="width: 50%; text-align: center;">🚀 <strong>Secuencia de Sesiones</strong></td>
+<td style="width: 50%;">
+<p><strong>Metodología: Pienso ➡️ Programo ➡️ Pruebo</strong></p>
+<p style="text-align: left;">La práctica pedagógica sigue estrictamente una metodología de aprendizaje basado en el juego y la gamificación, vertebrada en una hoja de ruta cognitiva de tres fases: Pienso (observar el reto y localizar el destino), Programo (trazar la secuencia con flechas) y Pruebo (arrancar motores y verificar el recorrido).</p>
+<p><strong>Sesión 1: Calentamos Motores (Motivación y Centros de Interés):</strong></p>
+<ul>
+<li>Introducción temática mediante soportes musicales y audiovisuales interactivos de YouTube (canciones infantiles viales como "Chocaron Dos Coches" de Pica-Pica o "Las ruedas del bus van" de CoComelon).</li>
+<li>Elección y personalización del vehículo que guiará el proyecto mediante el uso de pictogramas inclusivos con licencia abierta de ARASAAC.</li>
+</ul>
+<p><strong>Sesión 2: Programación Desenchufada (¡Nosotros somos los Coches!):</strong></p>
+<ul>
+<li>Dinámica vivencial y corporal sin dispositivos tecnológicos. Sobre una cuadrícula gigante instalada en el suelo del aula, los propios niños actúan como vehículos ejecutando las órdenes y direcciones de movimiento secuenciadas por sus compañeros.</li>
+</ul>
+<p>Sesión 3: Programación Mediada (Jugamos con Super Doc):</p>
+<ul>
+<li>Incorporación de la tecnología de aula mediante el robot parlante Super Doc de Clementoni (o Bee-Bot).</li>
+<li>Resolución de misiones gamificadas: los alumnos deben anticipar el movimiento del robot y guiar al robot de una zona del tapete de la ciudad a otra determinada, pulsando los comandos direccionales superiores del dispositivo.</li>
+</ul>
+<p>Sesión 4: Consolidación y Evaluación Formativa:</p>
+<ul>
+<li>Afianzamiento de conceptos de educación vial mediante actividades interactivas digitales guiadas en gran grupo, tales como dinámicas para relacionar columnas sobre el semáforo a través de la plataforma Educaplay.</li>
+</ul>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779630540968-17qtb6kxs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; background-color: #ecf0f1; border-color: #000000; border-style: solid;\">\n<tbody>\n<tr style=\"border-color: #000000; border-style: solid;\">\n<td style=\"width: 50%; border-style: solid; border-color: #000000; text-align: center;\">📋 <strong>Datos de la SDA</strong></td>\n<td style=\"width: 50%; border-color: #000000; border-style: solid;\">\n<p><strong>Proyecto:</strong> Ruedas y pasos. ¡Mi primer viaje algorítmico! </p>\n<p><strong>Autor: </strong>Francisco José Segura Domínguez<br /></p>\n<p style=\"text-align: left;\"><strong>Nivel educativo:</strong> Segundo ciclo de educación infantil (3 años). Alumnos y alumnas en fase de exploración sensorial; se aprovecha su fascinación innata por los coches para asentar los conocimientos del pensamiento computacional básico.</p>\n<p style=\"text-align: left;\"><strong>Temporalización:</strong> Junio. Ideal como situación de aprendizaje motivadora y con base tecnológica para el cierre del curso.</p>\n</td>\n</tr>\n<tr style=\"border-color: #000000; border-style: solid;\">\n<td style=\"width: 50%; border-color: #000000; border-style: solid; background-color: #ffffff; text-align: center;\">⚖️ <strong>Fundamentación pegagógica y curricular</strong></td>\n<td style=\"width: 50%; border-color: #000000; border-style: solid; background-color: #ffffff;\">\n<p><strong>Área 1: Crecimiento en Armonía </strong></p>\n<p><em>Competencia Específica 2 \"Reconocer, manifestar y regular progresivamente sus emociones, expresando necesidades y sentimientos para lograr el bienestar emocional y seguridad afectiva\"</em></p>\n<p>Orientada a reconocer, manifestar y regular progresivamente las emociones. A través de las dinámicas de programación, se trabaja de forma activa la resiliencia infantil y la tolerancia a la frustración cuando el coche no llega a la meta, impulsando la co-resolución de problemas en equipo.</p>\n<p><strong>Área 2: Exploración del Entorno </strong></p>\n<p><em>Competencia Específica 2: \"Tomar contacto, de manera progresiva, con los procedimientos del método científico y las destrezas del pensamiento computacional básico...\"</em></p>\n<p>Constituye el núcleo central de la SDA, centrada en tomar contacto progresivo con los procedimientos del método científico y las destrezas del pensamiento computacional básico. El alumnado diseña rutas secuenciales y comandos lógicos para superar retos en el espacio del aula.</p>\n<p><strong>Área 3: Comunicación y Realidad </strong></p>\n<p><em>Competencia Específica 4: \"Participar por iniciativa propia en actividades relacionadas con textos escritor, mostrando interés y curiosidad por comprender su funcionalidad...\"</em></p>\n<p>Enfocada en la participación en actividades vinculadas a textos escritos funcionales. En este marco, los códigos visuales (flechas y comandos iconográficos) se presentan como un \"texto funcional\" elemental que permite a los niños comprobar que los signos mueven el mundo real.</p>\n</td>\n</tr>\n<tr style=\"border-color: #000000; border-style: solid;\">\n<td style=\"width: 50%; border-style: solid; text-align: center;\">🎯 <strong>Objetivos Didácticos y saberes básicos</strong></td>\n<td style=\"width: 50%; border-color: #000000; border-style: solid;\">\n<p><strong>OBJETIVOS:</strong></p>\n<ul>\n<li>Iniciarse de manera lúdica en las bases del pensamiento computacional y la lógica secuencial.</li>\n<li>Desarrollar destrezas de orientación espacial, lateralidad y refuerzo del esquema corporal sobre el plano físico.</li>\n<li>Experimentar la transición metacognitiva entre una orden lógica digital abstracta y un movimiento físico observable.</li>\n<li>Conocer el vocabulario elemental de los medios de transporte (tierra, mar, aire) y nociones básicas de seguridad vial.</li>\n<li>Potenciar dinámicas de juego cooperativo, de comunicación afectiva y resolución compartida de pequeños imprevistos logísticos.</li>\n</ul>\n<p><strong>SABERES BÁSICOS:</strong></p>\n<ul>\n<li><strong>Orientación Espacial y Esquema Corporal:</strong> Nociones espaciales básicas (delante, detrás, giros orientativos) utilizando el propio cuerpo en el espacio.</li>\n<li><strong>Lenguaje Algorítmico e Iconográfico: </strong>Identificación y secuenciación de códigos visuales elementales (flechas de dirección).</li>\n<li><strong>Entornos Familiares y Transportes:</strong> Los vehículos del entorno y espacios relacionados (plazas de aparcamiento, carreteras, garajes).</li>\n<li><strong>Educación Vial Básica: </strong>Introducción al funcionamiento del semáforo y normas elementales de circulación peatonal y escolar.</li>\n<li><strong>Herramientas de Programación:</strong> Dinámicas de programación desenchufada (analógica) y manejo guiado de robots físicos de aula (Super Doc / Bee-Bot).</li>\n</ul>\n</td>\n</tr>\n<tr style=\"border-color: #000000; border-style: solid; background-color: #ffffff;\">\n<td style=\"width: 50%; text-align: center;\">🚀 <strong>Secuencia de Sesiones</strong></td>\n<td style=\"width: 50%;\">\n<p><strong>Metodología: Pienso ➡️ Programo ➡️ Pruebo</strong></p>\n<p style=\"text-align: left;\">La práctica pedagógica sigue estrictamente una metodología de aprendizaje basado en el juego y la gamificación, vertebrada en una hoja de ruta cognitiva de tres fases: Pienso (observar el reto y localizar el destino), Programo (trazar la secuencia con flechas) y Pruebo (arrancar motores y verificar el recorrido).</p>\n<p><strong>Sesión 1: Calentamos Motores (Motivación y Centros de Interés):</strong></p>\n<ul>\n<li>Introducción temática mediante soportes musicales y audiovisuales interactivos de YouTube (canciones infantiles viales como \"Chocaron Dos Coches\" de Pica-Pica o \"Las ruedas del bus van\" de CoComelon).</li>\n<li>Elección y personalización del vehículo que guiará el proyecto mediante el uso de pictogramas inclusivos con licencia abierta de ARASAAC.</li>\n</ul>\n<p><strong>Sesión 2: Programación Desenchufada (¡Nosotros somos los Coches!):</strong></p>\n<ul>\n<li>Dinámica vivencial y corporal sin dispositivos tecnológicos. Sobre una cuadrícula gigante instalada en el suelo del aula, los propios niños actúan como vehículos ejecutando las órdenes y direcciones de movimiento secuenciadas por sus compañeros.</li>\n</ul>\n<p>Sesión 3: Programación Mediada (Jugamos con Super Doc):</p>\n<ul>\n<li>Incorporación de la tecnología de aula mediante el robot parlante Super Doc de Clementoni (o Bee-Bot).</li>\n<li>Resolución de misiones gamificadas: los alumnos deben anticipar el movimiento del robot y guiar al robot de una zona del tapete de la ciudad a otra determinada, pulsando los comandos direccionales superiores del dispositivo.</li>\n</ul>\n<p>Sesión 4: Consolidación y Evaluación Formativa:</p>\n<ul>\n<li>Afianzamiento de conceptos de educación vial mediante actividades interactivas digitales guiadas en gran grupo, tales como dinámicas para relacionar columnas sobre el semáforo a través de la plataforma Educaplay.</li>\n</ul>\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpjtl6ua-t1n4nu4y5</odePageId>
+  <odeParentPageId>page-mpjtl6u8-tmrjdhptx</odeParentPageId>
+  <pageName>🎯 Nuestros Retos (El Proyecto)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎯 Nuestros Retos (El Proyecto)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎯 Nuestros Retos (El Proyecto)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpjtl6ua-t1n4nu4y5</odePageId>
+      <odeBlockId>block-1779633747225-lms6wg2d6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpjtl6ua-t1n4nu4y5</odePageId>
+          <odeBlockId>block-1779633747225-lms6wg2d6</odeBlockId>
+          <odeIdeviceId>idevice-1779633747223-rt0f8gurs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>&lt;</p>
+<table style="width: 100%; border-collapse: collapse !important; font-family: sans-serif; font-size: 14px; border: 3px solid #2e4053 !important;">
+<tbody>
+<tr style="background-color: #2e4053 !important; color: #ffffff !important;">
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;">RETO</td>
+<td style="width: 75%; padding: 15px; font-weight: bold;">¡A JUGAR Y EXPERIMENTAR!</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important;">
+<td style="width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;">🚗<br />Reto 1:<br />Calentamos Motores</td>
+<td style="width: 75%; padding: 20px; background-color: #ffffff !important; vertical-align: top;">
+<p>🎵 <strong>¡A cantar!</strong> Prepara tu volante y sigue el ritmo con nuestras canciones favoritas de transportes:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4Z9M0jG9R8g" target="_blank" rel="noopener">▶️ Escuchar "Chocaron dos coches" (Pica-Pica)</a></li>
+<li><a href="https://www.youtube.com/watch?v=hZ7jXfXWJ0M" target="_blank" rel="noopener">▶️ Escuchar "Las ruedas del bus" (CoComelon)</a></li>
+</ul>
+<p>🎨 <strong>Tu coche:</strong> Elige el pictograma de tu vehículo en el panel de <a href="https://arasaac.org" target="_blank" rel="noopener">ARASAAC</a>.</p>
+</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important;">
+<td style="width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;">🚶‍♂️<br />Reto 2:<br />¡Nosotros somos los Coches!</td>
+<td style="width: 75%; padding: 20px; background-color: #ffffff !important; vertical-align: top;">
+<p>🚸 <strong>Circulamos por la alfombra:</strong> Nos convertimos en robots humanos.</p>
+<p>Usa las <strong>flechas de dirección coloridas</strong> para diseñar el camino en el suelo antes de que tu compañero empiece a caminar. ¡Evita salirte de la carretera!</p>
+<p>📌 <a href="https://drive.google.com/file/d/1PgBceGNijUQ3njZQerJT6Nor9aLgF7Fj/view?usp=sharing"><em title="">Descarga las plantillas de flechas impresas en nuestro rincón de juego del aula.</em></a></p>
+</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important;">
+<td style="width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;">🤖<br />Reto 3:<br />Misión Super Doc</td>
+<td style="width: 75%; padding: 20px; background-color: #ffffff !important; vertical-align: top;">
+<p>🤖 <strong>¡Llega la robótica!</strong> Es hora de programar a nuestro amigo <em>Super Doc</em>.</p>
+<p><strong>Tu misión:</strong> Cuenta los pasos en el tapete de la ciudad, pulsa los botones superiores y ayúdale a encontrar una plaza libre en el <strong>aparcamiento subterráneo</strong>.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=f_Vw7Z9R-Yk" target="_blank" rel="noopener">📺 Ver vídeo de ejemplo: Así juegan otros niños con el robot</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;">🚦<br />Reto 4:<br />El Semáforo Loco</td>
+<td style="width: 75%; padding: 20px; background-color: #ffffff !important; vertical-align: top;">
+<p>🎮 <strong>¡Demuestra lo que sabes en la Pizarra Digital!</strong></p>
+<p>Entra al juego interactivo de educación vial y une con flechas.</p>
+<p>👉 <a href="https://www.educaplay.com" target="_blank" rel="noopener" style="background-color: #27ae60; color: white; padding: 5px 10px; text-decoration: none; border-radius: 4px; font-weight: bold;">🎯 ¡CLIC AQUÍ PARA JUGAR AL SEMÁFORO!</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779633747223-rt0f8gurs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>&lt;</p>\n<table style=\"width: 100%; border-collapse: collapse !important; font-family: sans-serif; font-size: 14px; border: 3px solid #2e4053 !important;\">\n<tbody>\n<tr style=\"background-color: #2e4053 !important; color: #ffffff !important;\">\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;\">RETO</td>\n<td style=\"width: 75%; padding: 15px; font-weight: bold;\">¡A JUGAR Y EXPERIMENTAR!</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;\">🚗<br />Reto 1:<br />Calentamos Motores</td>\n<td style=\"width: 75%; padding: 20px; background-color: #ffffff !important; vertical-align: top;\">\n<p>🎵 <strong>¡A cantar!</strong> Prepara tu volante y sigue el ritmo con nuestras canciones favoritas de transportes:</p>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=4Z9M0jG9R8g\" target=\"_blank\" rel=\"noopener\">▶️ Escuchar \"Chocaron dos coches\" (Pica-Pica)</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=hZ7jXfXWJ0M\" target=\"_blank\" rel=\"noopener\">▶️ Escuchar \"Las ruedas del bus\" (CoComelon)</a></li>\n</ul>\n<p>🎨 <strong>Tu coche:</strong> Elige el pictograma de tu vehículo en el panel de <a href=\"https://arasaac.org\" target=\"_blank\" rel=\"noopener\">ARASAAC</a>.</p>\n</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;\">🚶‍♂️<br />Reto 2:<br />¡Nosotros somos los Coches!</td>\n<td style=\"width: 75%; padding: 20px; background-color: #ffffff !important; vertical-align: top;\">\n<p>🚸 <strong>Circulamos por la alfombra:</strong> Nos convertimos en robots humanos.</p>\n<p>Usa las <strong>flechas de dirección coloridas</strong> para diseñar el camino en el suelo antes de que tu compañero empiece a caminar. ¡Evita salirte de la carretera!</p>\n<p>📌 <a href=\"https://drive.google.com/file/d/1PgBceGNijUQ3njZQerJT6Nor9aLgF7Fj/view?usp=sharing\"><em title=\"\">Descarga las plantillas de flechas impresas en nuestro rincón de juego del aula.</em></a></p>\n</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;\">🤖<br />Reto 3:<br />Misión Super Doc</td>\n<td style=\"width: 75%; padding: 20px; background-color: #ffffff !important; vertical-align: top;\">\n<p>🤖 <strong>¡Llega la robótica!</strong> Es hora de programar a nuestro amigo <em>Super Doc</em>.</p>\n<p><strong>Tu misión:</strong> Cuenta los pasos en el tapete de la ciudad, pulsa los botones superiores y ayúdale a encontrar una plaza libre en el <strong>aparcamiento subterráneo</strong>.</p>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=f_Vw7Z9R-Yk\" target=\"_blank\" rel=\"noopener\">📺 Ver vídeo de ejemplo: Así juegan otros niños con el robot</a></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;\">🚦<br />Reto 4:<br />El Semáforo Loco</td>\n<td style=\"width: 75%; padding: 20px; background-color: #ffffff !important; vertical-align: top;\">\n<p>🎮 <strong>¡Demuestra lo que sabes en la Pizarra Digital!</strong></p>\n<p>Entra al juego interactivo de educación vial y une con flechas.</p>\n<p>👉 <a href=\"https://www.educaplay.com\" target=\"_blank\" rel=\"noopener\" style=\"background-color: #27ae60; color: white; padding: 5px 10px; text-decoration: none; border-radius: 4px; font-weight: bold;\">🎯 ¡CLIC AQUÍ PARA JUGAR AL SEMÁFORO!</a></p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpjtl6ua-icqqtg2c1</odePageId>
+  <odeParentPageId>page-mpjtl6u8-tmrjdhptx</odeParentPageId>
+  <pageName>🔍 La Caja de Herramientas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🔍 La Caja de Herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🔍 La Caja de Herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpjtl6ua-icqqtg2c1</odePageId>
+      <odeBlockId>block-1779634762790-oaqj5666b</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpjtl6ua-icqqtg2c1</odePageId>
+          <odeBlockId>block-1779634762790-oaqj5666b</odeBlockId>
+          <odeIdeviceId>idevice-1779634762789-8m0mn3aix</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 100%; font-family: sans-serif; font-size: 14px; border-collapse: collapse !important; border: 3px solid #2e4053 !important; height: 444px;">
+<tbody>
+<tr style="background-color: #2e4053 !important; color: #ffffff !important; height: 53px;">
+<td style="width: 30%; text-align: center; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important; height: 53px;">RECURSO / MATERIAL</td>
+<td style="width: 45%; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important; height: 53px;">REPOSITORIO O FUENTE</td>
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold; height: 53px;">LICENCIA / USO</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important; height: 73.5px;">
+<td style="width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 73.5px;">🚗 Pictogramas de Vehículos y Transportes</td>
+<td style="width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 73.5px;">Portal Aragonés de la Comunicación Aumentativa y Alternativa (<a href="https://arasaac.org" target="_blank" rel="noopener" style="color: #2980b9; font-weight: bold; text-decoration: underline;">Acceder a ARASAAC</a>). Utilizados para la inclusión y asignación de equipos.</td>
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #7f8c8d; background-color: #ffffff !important; height: 73.5px;">CC BY-NC-SA</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important; height: 95px;">
+<td style="width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 95px;">📥 Plantilla de Comandos Super Doc</td>
+<td style="width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 95px;">Recurso de autoría propia adaptado fielmente al código de color e iconografía curva del robot de suelo. <a href="https://drive.google.com/file/d/1PgBceGNijUQ3njZQerJT6Nor9aLgF7Fj/view?usp=sharing" title="">Descargable desde el Drive del proyecto.</a></td>
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #27ae60; background-color: #ffffff !important; height: 95px;">CC BY-SA 4.0</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important; height: 74px;">
+<td style="width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 74px;">🚦 Juego Interactivo del Semáforo</td>
+<td style="width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 74px;">Plataforma de gamificación (<a href="https://www.educaplay.com" target="_blank" rel="noopener" style="color: #2980b9; font-weight: bold; text-decoration: underline;">Acceder a Educaplay</a>). Actividad digital gamificada para relacionar comportamientos viales en gran grupo.</td>
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #7f8c8d; background-color: #ffffff !important; height: 74px;">Gratuito / Educativo</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important; height: 74px;">
+<td style="width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 74px;">📊 Lista de Cotejo y Registro Digital</td>
+<td style="width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 74px;">Plantilla automatizada de observación sistemática en tiempo real (<a href="https://docs.google.com/document/d/14H9RNyHwfe8lxxZ5Vg1n71bBNuCehWZYBaE5nI6_WI4/edit?usp=sharing" target="_blank" rel="noopener" style="color: #2980b9; font-weight: bold; text-decoration: underline;">Ver Documento de Trabajo</a>).</td>
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #27ae60; background-color: #ffffff !important; height: 74px;">CC BY-SA 4.0</td>
+</tr>
+<tr style="height: 74.5px;">
+<td style="width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 74.5px;">🎯 Diana de Autoevaluación Infantil</td>
+<td style="width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 74.5px;">Soporte visual interactivo y multimedia adaptado para la autoevaluación en Infantil de 3 años (<a href="https://www.canva.com/design/DAHJRnGDN6k/V299OVBNWP2sPu58ffH9Og/view?utm_content=DAHJRnGDN6k&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h06878aafa6" target="_blank" rel="noopener" style="color: #2980b9; font-weight: bold; text-decoration: underline;">Ver Diseño en Canva</a>).</td>
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #27ae60; background-color: #ffffff !important; height: 74.5px;">CC BY-SA 4.0</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779634762789-8m0mn3aix","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100%; font-family: sans-serif; font-size: 14px; border-collapse: collapse !important; border: 3px solid #2e4053 !important; height: 444px;\">\n<tbody>\n<tr style=\"background-color: #2e4053 !important; color: #ffffff !important; height: 53px;\">\n<td style=\"width: 30%; text-align: center; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important; height: 53px;\">RECURSO / MATERIAL</td>\n<td style=\"width: 45%; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important; height: 53px;\">REPOSITORIO O FUENTE</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold; height: 53px;\">LICENCIA / USO</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important; height: 73.5px;\">\n<td style=\"width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 73.5px;\">🚗 Pictogramas de Vehículos y Transportes</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 73.5px;\">Portal Aragonés de la Comunicación Aumentativa y Alternativa (<a href=\"https://arasaac.org\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">Acceder a ARASAAC</a>). Utilizados para la inclusión y asignación de equipos.</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #7f8c8d; background-color: #ffffff !important; height: 73.5px;\">CC BY-NC-SA</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important; height: 95px;\">\n<td style=\"width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 95px;\">📥 Plantilla de Comandos Super Doc</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 95px;\">Recurso de autoría propia adaptado fielmente al código de color e iconografía curva del robot de suelo. <a href=\"https://drive.google.com/file/d/1PgBceGNijUQ3njZQerJT6Nor9aLgF7Fj/view?usp=sharing\" title=\"\">Descargable desde el Drive del proyecto.</a></td>\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #27ae60; background-color: #ffffff !important; height: 95px;\">CC BY-SA 4.0</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important; height: 74px;\">\n<td style=\"width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 74px;\">🚦 Juego Interactivo del Semáforo</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 74px;\">Plataforma de gamificación (<a href=\"https://www.educaplay.com\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">Acceder a Educaplay</a>). Actividad digital gamificada para relacionar comportamientos viales en gran grupo.</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #7f8c8d; background-color: #ffffff !important; height: 74px;\">Gratuito / Educativo</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important; height: 74px;\">\n<td style=\"width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 74px;\">📊 Lista de Cotejo y Registro Digital</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 74px;\">Plantilla automatizada de observación sistemática en tiempo real (<a href=\"https://docs.google.com/document/d/14H9RNyHwfe8lxxZ5Vg1n71bBNuCehWZYBaE5nI6_WI4/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">Ver Documento de Trabajo</a>).</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #27ae60; background-color: #ffffff !important; height: 74px;\">CC BY-SA 4.0</td>\n</tr>\n<tr style=\"height: 74.5px;\">\n<td style=\"width: 30%; padding: 15px; font-weight: bold; color: #2c3e50; background-color: #eaeded !important; border-right: 2px solid #2e4053 !important; height: 74.5px;\">🎯 Diana de Autoevaluación Infantil</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; height: 74.5px;\">Soporte visual interactivo y multimedia adaptado para la autoevaluación en Infantil de 3 años (<a href=\"https://www.canva.com/design/DAHJRnGDN6k/V299OVBNWP2sPu58ffH9Og/view?utm_content=DAHJRnGDN6k&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h06878aafa6\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">Ver Diseño en Canva</a>).</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold; color: #27ae60; background-color: #ffffff !important; height: 74.5px;\">CC BY-SA 4.0</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpjtl6ub-i8r3mu0y2</odePageId>
+  <odeParentPageId>page-mpjtl6u8-tmrjdhptx</odeParentPageId>
+  <pageName>📊 ¿Cómo evaluamos?</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📊 ¿Cómo evaluamos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📊 ¿Cómo evaluamos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpjtl6ub-i8r3mu0y2</odePageId>
+      <odeBlockId>block-1779635356855-8hxjc5nbs</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpjtl6ub-i8r3mu0y2</odePageId>
+          <odeBlockId>block-1779635356855-8hxjc5nbs</odeBlockId>
+          <odeIdeviceId>idevice-1779635356854-0g3iyssjq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 100%; border-collapse: collapse !important; font-family: sans-serif; font-size: 14px; border: 3px solid #2e4053 !important;">
+<tbody>
+<tr style="background-color: #2e4053 !important; color: #ffffff !important;">
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;">INSTRUMENTO</td>
+<td style="width: 50%; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;">INDICADORES Y FINALIDAD (3 AÑOS)</td>
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold;">SOPORTE DIGITAL / ENLACES</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important;">
+<td style="width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;">📊<br />Rúbrica Analítica Digital<br />(Heteroevaluación de Desempeño)</td>
+<td style="width: 50%; padding: 20px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; vertical-align: top;">
+<p><strong>¿Qué evalúa el docente?</strong> Registro de niveles de logro (En proceso, Avanzado, Excelente) mediante observación directa durante los retos de programación.</p>
+<ul>
+<li><strong>Secuencias lógicas:</strong> Capacidad para estructurar órdenes con comandos (flechas) y depurar errores.</li>
+<li><strong>Tolerancia a la frustración:</strong> Gestión del error y resiliencia cuando el robot no alcanza la meta.</li>
+<li><strong>Trabajo colaborativo:</strong> Participación activa y respeto de turnos en el equipo.</li>
+</ul>
+<p><em>*Nota: Formulario ágil para registrar datos con tres toques táctiles desde dispositivos móviles durante la sesión.</em></p>
+</td>
+<td style="width: 25%; text-align: center; padding: 20px; background-color: #ffffff !important; vertical-align: middle;"><a href="https://docs.google.com/forms/d/e/1FAIpQLScxIYP7irl9lUXcJNE-kuyTijC4joSaNpsh-z0iBb299F5pYQ/viewform?usp=dialog" target="_blank" rel="noopener" style="background-color: #2980b9; color: white; padding: 6px 10px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 11px; margin-bottom: 8px; width: 85%;">📝 1. FORMULARIO INTERFAZ</a> <br /><a href="https://docs.google.com/spreadsheets/d/1tfFbFlVHqlZwc7kSccDgo5rAGFY6KTo4MP81mGr4xi8/edit?gid=491387268#gid=491387268" target="_blank" rel="noopener" style="background-color: #34495e; color: white; padding: 6px 10px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 11px; width: 85%;">📊 2. PESTAÑA RESPUESTAS</a></td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important;">
+<td style="width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;">🤝<br />Lista de Cotejo Digital<br />(Co-evaluación / Registro)</td>
+<td style="width: 50%; padding: 20px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; vertical-align: top;">
+<p><strong>¿Qué se registra?</strong> Control dicotómico (Sí/No) del progreso del grupo en las destrezas de la Situación de Aprendizaje:</p>
+<ul>
+<li><strong>Tarea 1 / Reto 1:</strong> Clasificación de transportes por vías (Tierra, Mar, Aire).</li>
+<li><strong>Tarea 2 / Reto 2:</strong> Direccionalidad espacial en cuadrícula gigante (Pasos de Gigante).</li>
+<li><strong>Actitud y Convivencia:</strong> Cooperación y mantenimiento de un clima positivo de aula.</li>
+</ul>
+</td>
+<td style="width: 25%; text-align: center; padding: 20px; background-color: #ffffff !important; vertical-align: middle;"><a href="https://docs.google.com/spreadsheets/d/1tfFbFlVHqlZwc7kSccDgo5rAGFY6KTo4MP81mGr4xi8/edit?gid=1877520657#gid=1877520657" target="_blank" rel="noopener" style="background-color: #27ae60; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 11px; width: 85%;">📋 PESTAÑA ALUMNADO</a></td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important;">
+<td style="width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;">🎯<br />Diana de Evaluación Visual<br />(Metacognición Canva)</td>
+<td style="width: 50%; padding: 20px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; vertical-align: top;">
+<p><strong>¿Qué evalúa el propio alumno?</strong> Reflexión guiada y autopercepción adaptada a los 3 años mediante dinámicas asamblearias orales.</p>
+<ul>
+<li><strong>Dimensión Ruta:</strong> ¿He conseguido llevar mi transporte o robot por la carretera?</li>
+<li><strong>Dimensión Fallo:</strong> ¿He usado el "palo de depurar" o el botón de limpiar si me he equivocado?</li>
+<li><strong>Dimensión Equipo:</strong> ¿He compartido los materiales de forma alegre con mis compañeros?</li>
+</ul>
+</td>
+<td style="width: 25%; text-align: center; padding: 20px; background-color: #ffffff !important; vertical-align: middle;"><a href="https://www.canva.com/design/DAHJRnGDN6k/V299OVBNWP2sPu58ffH9Og/view?utm_content=DAHJRnGDN6k&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h06878aafa6" target="_blank" rel="noopener" style="background-color: #8e44ad; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 11px; width: 85%;">✨ DIANA INTERACTIVA</a></td>
+</tr>
+<tr>
+<td style="width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #fadbd8 !important; color: #78281f; border-right: 2px solid #2e4053 !important; vertical-align: middle;">🛡️<br />Plan de Contingencia<br />Digital</td>
+<td colspan="2" style="width: 75%; padding: 20px; background-color: #fdf2f2 !important; vertical-align: top;">
+<p><strong>Garantía del proceso de evaluación ante incidencias tecnológicas:</strong></p>
+<p>• <strong>Hardware:</strong> Si el robot se desvía por suciedad en los ejes o falta de batería, se pausa la sesión (explicando que "el robot está cansado y necesita merendar energía") sin penalizar la evaluación del alumno.</p>
+<p>• <strong>Bloqueo táctil / Lógica:</strong> Ante pulsaciones masivas en las tablets o falta de borrado, se entrena el ritual del "botón de limpiar" (¡Borramos la memoria para un viaje nuevo!) y el "dedo mágico".</p>
+<p>• <strong>Falta de Conectividad (Wi-Fi):</strong> Ante caídas de red que impidan cargar los recursos multimedia, se activará el <strong>Plan B</strong> mediante réplicas analógicas físicas plastificadas o recursos en almacenamiento local (pendrive/tablet), asegurando la recogida continua de datos.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779635356854-0g3iyssjq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100%; border-collapse: collapse !important; font-family: sans-serif; font-size: 14px; border: 3px solid #2e4053 !important;\">\n<tbody>\n<tr style=\"background-color: #2e4053 !important; color: #ffffff !important;\">\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;\">INSTRUMENTO</td>\n<td style=\"width: 50%; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;\">INDICADORES Y FINALIDAD (3 AÑOS)</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold;\">SOPORTE DIGITAL / ENLACES</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;\">📊<br />Rúbrica Analítica Digital<br />(Heteroevaluación de Desempeño)</td>\n<td style=\"width: 50%; padding: 20px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; vertical-align: top;\">\n<p><strong>¿Qué evalúa el docente?</strong> Registro de niveles de logro (En proceso, Avanzado, Excelente) mediante observación directa durante los retos de programación.</p>\n<ul>\n<li><strong>Secuencias lógicas:</strong> Capacidad para estructurar órdenes con comandos (flechas) y depurar errores.</li>\n<li><strong>Tolerancia a la frustración:</strong> Gestión del error y resiliencia cuando el robot no alcanza la meta.</li>\n<li><strong>Trabajo colaborativo:</strong> Participación activa y respeto de turnos en el equipo.</li>\n</ul>\n<p><em>*Nota: Formulario ágil para registrar datos con tres toques táctiles desde dispositivos móviles durante la sesión.</em></p>\n</td>\n<td style=\"width: 25%; text-align: center; padding: 20px; background-color: #ffffff !important; vertical-align: middle;\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLScxIYP7irl9lUXcJNE-kuyTijC4joSaNpsh-z0iBb299F5pYQ/viewform?usp=dialog\" target=\"_blank\" rel=\"noopener\" style=\"background-color: #2980b9; color: white; padding: 6px 10px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 11px; margin-bottom: 8px; width: 85%;\">📝 1. FORMULARIO INTERFAZ</a> <br /><a href=\"https://docs.google.com/spreadsheets/d/1tfFbFlVHqlZwc7kSccDgo5rAGFY6KTo4MP81mGr4xi8/edit?gid=491387268#gid=491387268\" target=\"_blank\" rel=\"noopener\" style=\"background-color: #34495e; color: white; padding: 6px 10px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 11px; width: 85%;\">📊 2. PESTAÑA RESPUESTAS</a></td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;\">🤝<br />Lista de Cotejo Digital<br />(Co-evaluación / Registro)</td>\n<td style=\"width: 50%; padding: 20px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; vertical-align: top;\">\n<p><strong>¿Qué se registra?</strong> Control dicotómico (Sí/No) del progreso del grupo en las destrezas de la Situación de Aprendizaje:</p>\n<ul>\n<li><strong>Tarea 1 / Reto 1:</strong> Clasificación de transportes por vías (Tierra, Mar, Aire).</li>\n<li><strong>Tarea 2 / Reto 2:</strong> Direccionalidad espacial en cuadrícula gigante (Pasos de Gigante).</li>\n<li><strong>Actitud y Convivencia:</strong> Cooperación y mantenimiento de un clima positivo de aula.</li>\n</ul>\n</td>\n<td style=\"width: 25%; text-align: center; padding: 20px; background-color: #ffffff !important; vertical-align: middle;\"><a href=\"https://docs.google.com/spreadsheets/d/1tfFbFlVHqlZwc7kSccDgo5rAGFY6KTo4MP81mGr4xi8/edit?gid=1877520657#gid=1877520657\" target=\"_blank\" rel=\"noopener\" style=\"background-color: #27ae60; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 11px; width: 85%;\">📋 PESTAÑA ALUMNADO</a></td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #eaeded !important; color: #2c3e50; border-right: 2px solid #2e4053 !important; vertical-align: middle;\">🎯<br />Diana de Evaluación Visual<br />(Metacognición Canva)</td>\n<td style=\"width: 50%; padding: 20px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important; vertical-align: top;\">\n<p><strong>¿Qué evalúa el propio alumno?</strong> Reflexión guiada y autopercepción adaptada a los 3 años mediante dinámicas asamblearias orales.</p>\n<ul>\n<li><strong>Dimensión Ruta:</strong> ¿He conseguido llevar mi transporte o robot por la carretera?</li>\n<li><strong>Dimensión Fallo:</strong> ¿He usado el \"palo de depurar\" o el botón de limpiar si me he equivocado?</li>\n<li><strong>Dimensión Equipo:</strong> ¿He compartido los materiales de forma alegre con mis compañeros?</li>\n</ul>\n</td>\n<td style=\"width: 25%; text-align: center; padding: 20px; background-color: #ffffff !important; vertical-align: middle;\"><a href=\"https://www.canva.com/design/DAHJRnGDN6k/V299OVBNWP2sPu58ffH9Og/view?utm_content=DAHJRnGDN6k&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h06878aafa6\" target=\"_blank\" rel=\"noopener\" style=\"background-color: #8e44ad; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 11px; width: 85%;\">✨ DIANA INTERACTIVA</a></td>\n</tr>\n<tr>\n<td style=\"width: 25%; text-align: center; padding: 20px; font-weight: bold; background-color: #fadbd8 !important; color: #78281f; border-right: 2px solid #2e4053 !important; vertical-align: middle;\">🛡️<br />Plan de Contingencia<br />Digital</td>\n<td colspan=\"2\" style=\"width: 75%; padding: 20px; background-color: #fdf2f2 !important; vertical-align: top;\">\n<p><strong>Garantía del proceso de evaluación ante incidencias tecnológicas:</strong></p>\n<p>• <strong>Hardware:</strong> Si el robot se desvía por suciedad en los ejes o falta de batería, se pausa la sesión (explicando que \"el robot está cansado y necesita merendar energía\") sin penalizar la evaluación del alumno.</p>\n<p>• <strong>Bloqueo táctil / Lógica:</strong> Ante pulsaciones masivas en las tablets o falta de borrado, se entrena el ritual del \"botón de limpiar\" (¡Borramos la memoria para un viaje nuevo!) y el \"dedo mágico\".</p>\n<p>• <strong>Falta de Conectividad (Wi-Fi):</strong> Ante caídas de red que impidan cargar los recursos multimedia, se activará el <strong>Plan B</strong> mediante réplicas analógicas físicas plastificadas o recursos en almacenamiento local (pendrive/tablet), asegurando la recogida continua de datos.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpjtl6ub-fwuenjxtn</odePageId>
+  <odeParentPageId>page-mpjtl6u8-tmrjdhptx</odeParentPageId>
+  <pageName>💳 Créditos y Descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>💳 Créditos y Descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>💳 Créditos y Descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpjtl6ub-fwuenjxtn</odePageId>
+      <odeBlockId>block-1779636211850-puxqr3dyi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpjtl6ub-fwuenjxtn</odePageId>
+          <odeBlockId>block-1779636211850-puxqr3dyi</odeBlockId>
+          <odeIdeviceId>idevice-1779636211849-dzf4yglks</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 100%; border-collapse: collapse !important; font-family: sans-serif; font-size: 14px; border: 3px solid #2e4053 !important;">
+<tbody>
+<tr style="background-color: #2e4053 !important; color: #ffffff !important;">
+<td style="width: 30%; text-align: center; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;">SECCIÓN / ELEMENTO</td>
+<td style="width: 45%; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;">REPOSITORIO / ORIGEN DEL RECURSO</td>
+<td style="width: 25%; text-align: center; padding: 15px; font-weight: bold;">LICENCIA ASIGNADA</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important;">
+<td style="width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;">📥 Descarga de Materiales</td>
+<td style="width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;">Plantilla y tarjetas imprimibles listas para su uso en el aula (<a href="https://drive.google.com/file/d/1PgBceGNijUQ3njZQerJT6Nor9aLgF7Fj/view?usp=sharing" target="_blank" rel="noopener" style="color: #2980b9; font-weight: bold; text-decoration: underline;">Descargar Flechas de Dirección</a>).</td>
+<td style="width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #27ae60;">CC BY-SA 4.0</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important;">
+<td style="width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;">👤 Autoría y Coordinación</td>
+<td style="width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;">Situación de Aprendizaje diseñada y estructurada por <strong>Francisco José</strong> para la etapa de Educación Infantil (3 años).</td>
+<td style="width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #27ae60;">CC BY-NC-SA 4.0</td>
+</tr>
+<tr style="border-bottom: 2px solid #2e4053 !important;">
+<td style="width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;">🚗 Pictogramas e Iconos</td>
+<td style="width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;">Símbolos gráficos utilizados para la adaptación accesible (<a href="https://arasaac.org" target="_blank" rel="noopener" style="color: #2980b9; font-weight: bold; text-decoration: underline;">Centro Aragonés de la Comunicación Aumentativa y Alternativa - ARASAAC</a>).</td>
+<td style="width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #7f8c8d;">CC BY-NC-SA</td>
+</tr>
+<tr>
+<td style="width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;">💻 Herramienta de Creación</td>
+<td style="width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;">Recurso Educativo Abierto (REA) empaquetado y maquetado íntegramente con el software libre y de código abierto <a href="https://exelearning.net" target="_blank" rel="noopener" style="color: #2980b9; font-weight: bold; text-decoration: underline;">eXeLearning</a>.</td>
+<td style="width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #2c3e50;">GPL 2 o posterior</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779636211849-dzf4yglks","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100%; border-collapse: collapse !important; font-family: sans-serif; font-size: 14px; border: 3px solid #2e4053 !important;\">\n<tbody>\n<tr style=\"background-color: #2e4053 !important; color: #ffffff !important;\">\n<td style=\"width: 30%; text-align: center; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;\">SECCIÓN / ELEMENTO</td>\n<td style=\"width: 45%; padding: 15px; font-weight: bold; border-right: 2px solid #ffffff !important;\">REPOSITORIO / ORIGEN DEL RECURSO</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; font-weight: bold;\">LICENCIA ASIGNADA</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;\">📥 Descarga de Materiales</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;\">Plantilla y tarjetas imprimibles listas para su uso en el aula (<a href=\"https://drive.google.com/file/d/1PgBceGNijUQ3njZQerJT6Nor9aLgF7Fj/view?usp=sharing\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">Descargar Flechas de Dirección</a>).</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #27ae60;\">CC BY-SA 4.0</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;\">👤 Autoría y Coordinación</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;\">Situación de Aprendizaje diseñada y estructurada por <strong>Francisco José</strong> para la etapa de Educación Infantil (3 años).</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #27ae60;\">CC BY-NC-SA 4.0</td>\n</tr>\n<tr style=\"border-bottom: 2px solid #2e4053 !important;\">\n<td style=\"width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;\">🚗 Pictogramas e Iconos</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;\">Símbolos gráficos utilizados para la adaptación accesible (<a href=\"https://arasaac.org\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">Centro Aragonés de la Comunicación Aumentativa y Alternativa - ARASAAC</a>).</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #7f8c8d;\">CC BY-NC-SA</td>\n</tr>\n<tr>\n<td style=\"width: 30%; padding: 15px; background-color: #eaeded !important; font-weight: bold; color: #2c3e50; border-right: 2px solid #2e4053 !important;\">💻 Herramienta de Creación</td>\n<td style=\"width: 45%; padding: 15px; background-color: #ffffff !important; border-right: 2px solid #bdc3c7 !important;\">Recurso Educativo Abierto (REA) empaquetado y maquetado íntegramente con el software libre y de código abierto <a href=\"https://exelearning.net\" target=\"_blank\" rel=\"noopener\" style=\"color: #2980b9; font-weight: bold; text-decoration: underline;\">eXeLearning</a>.</td>\n<td style=\"width: 25%; text-align: center; padding: 15px; background-color: #ffffff !important; font-weight: bold; color: #2c3e50;\">GPL 2 o posterior</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
